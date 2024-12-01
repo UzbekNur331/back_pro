@@ -1,4 +1,1 @@
-# Bu mening birinchi loyiham
-
-
-```yooo towken nma nma gap```
+## welcome to my 2nd homeworks project  at https://github.com/  especially  though  I don't know what this project   is actually     doing right now.
